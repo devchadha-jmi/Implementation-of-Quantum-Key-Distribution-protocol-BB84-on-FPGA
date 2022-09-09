@@ -17,11 +17,3 @@ The next submodule deals with basis selection and comparison of received qubits 
 The third submodule gives us the estimate of deviation in received message at the receiver and decides whether the transmission channel has been hijacked or not.
 
 The major advantage of using FPGAs is the high processing speed additionally Verilog helps us in easy development of the algorithm.
-#### Alice
-The first sub-module works on the basis selection and qubits generation at the transmitter end.
-#### Bob
-The next submodule deals with basis selection and comparison of received qubits at the receiver end.
-#### Error_Estimation
-The third submodule gives us the estimate of deviation in received message at the receiver and decides whether the transmission channel has been hijacked or not.
-
-The major advantage of using FPGAs is the high processing speed additionally Verilog helps us in easy development of the algorithm.
