@@ -19,3 +19,5 @@ The third submodule gives us the estimate of deviation in received message at th
 The major advantage of using FPGAs is the high processing speed additionally Verilog helps us in easy development of the algorithm.
 
 [EDA Playground Link](https://www.edaplayground.com/x/7sha)
+
+Further details and elaborations are in the report attached.
