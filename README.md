@@ -124,9 +124,9 @@ This work was supported by the Department of Electronics and Communications Engi
 
 
 #### References
-[1] Alharith A., Abdullah and Noor R., “Efficient Implementation for Prince Algorithm in FPGA based on BB84 Protocol,” 2021 Journal of Physics: Conference Series, 2021 
+[^1] Alharith A., Abdullah and Noor R., “Efficient Implementation for Prince Algorithm in FPGA based on BB84 Protocol,” 2021 Journal of Physics: Conference Series, 2021 
 
-[2] C. Bennett and G. Brassard: in Proceedings of the IEEE ICCSSP, 1984, p. 175
+[^2] C. Bennett and G. Brassard: in Proceedings of the IEEE ICCSSP, 1984, p. 175
 
 ### EDAPlayground
 [EDA Playground](https://www.edaplayground.com/x/7sha)
